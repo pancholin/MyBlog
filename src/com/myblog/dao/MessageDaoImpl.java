@@ -6,8 +6,7 @@ import com.myblog.dbconn.ConnDB;
 import com.myblog.dbconn.Constant;
 import com.myblog.dbconn.GenricDao;
 import com.myblog.dbconn.Response;
-import com.myblogl.entity.Message;
-import com.myblogl.entity.Message;
+import com.myblog.entity.Message;
 
 public class MessageDaoImpl implements MessageDao{
 

@@ -1,4 +1,4 @@
-package com.myblogl.entity;
+package com.myblog.entity;
 
 public class User {
 	private String userID;     //用户的昵称 字符串30位

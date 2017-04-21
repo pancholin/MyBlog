@@ -8,10 +8,10 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.myblogl.entity.Article;
-import com.myblogl.entity.Comment;
-import com.myblogl.entity.Message;
-import com.myblogl.entity.User;
+import com.myblog.entity.Article;
+import com.myblog.entity.Comment;
+import com.myblog.entity.Message;
+import com.myblog.entity.User;
 
 
 

@@ -12,10 +12,10 @@ import com.myblog.dao.MessageDaoImpl;
 import com.myblog.dao.UserDaoImpl;
 import com.myblog.dbconn.ConnDB;
 import com.myblog.dbconn.GenricDao;
-import com.myblogl.entity.Article;
-import com.myblogl.entity.Comment;
-import com.myblogl.entity.Message;
-import com.myblogl.entity.User;
+import com.myblog.entity.Article;
+import com.myblog.entity.Comment;
+import com.myblog.entity.Message;
+import com.myblog.entity.User;
 
 public class dbconnectionTest {
 	public static void main(String []arg){

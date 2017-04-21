@@ -3,7 +3,7 @@ package com.myblog.dao;
 import java.util.List;
 
 import com.myblog.dbconn.Response;
-import com.myblogl.entity.Message;
+import com.myblog.entity.Message;
 
 public interface MessageDao {
 	

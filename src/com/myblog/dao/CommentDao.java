@@ -3,8 +3,8 @@ package com.myblog.dao;
 import java.util.List;
 
 import com.myblog.dbconn.Response;
-import com.myblogl.entity.Article;
-import com.myblogl.entity.Comment;
+import com.myblog.entity.Article;
+import com.myblog.entity.Comment;
 
 public interface CommentDao {
 	/*

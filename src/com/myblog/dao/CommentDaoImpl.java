@@ -6,7 +6,7 @@ import com.myblog.dbconn.ConnDB;
 import com.myblog.dbconn.Constant;
 import com.myblog.dbconn.GenricDao;
 import com.myblog.dbconn.Response;
-import com.myblogl.entity.Comment;
+import com.myblog.entity.Comment;
 
 
 public class CommentDaoImpl implements CommentDao{

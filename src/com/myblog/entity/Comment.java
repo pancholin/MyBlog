@@ -1,4 +1,4 @@
-package com.myblogl.entity;
+package com.myblog.entity;
 
 import java.util.Date;
 
